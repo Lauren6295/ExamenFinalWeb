@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,OAAQ;EACJ,MAAM,EAAE,KAAK;EACb,KAAK,EAAE,KAAK;EACZ,gBAAgB,EAAE,IAAI",
+"sources": ["../sass/_parteUno.scss"],
+"names": [],
+"file": "main.css"
+}
