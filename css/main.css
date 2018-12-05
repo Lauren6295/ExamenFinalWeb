@@ -7,6 +7,7 @@
   background-color: lightblue; }
 
 .paragraph {
+  font-size: 150px;
   width: 50%; }
 
 .images-container {
@@ -16,5 +17,13 @@
 .image {
   float: left;
   width: 50%; }
+
+.cifra {
+  width: 70%;
+  margin: 0 auto; }
+
+@media only screen and (max-width: 576px) {
+  .image {
+    width: 100%; } }
 
 /*# sourceMappingURL=main.css.map */
